@@ -1,0 +1,11 @@
+[package]
+name = "kopilka_rp"
+version = "0.1.0"
+authors = ["asemenov <asemenov@kopilka.kz>"]
+
+[dependencies]
+rustc-serialize = "*"
+net="*"
+http="*"
+middleware="*"
+
